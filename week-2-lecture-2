@@ -1,0 +1,27 @@
+let inputNumber = 100;
+
+
+if (inputNumber % 2 ==0){
+    console.log (" The input number is even");
+}
+
+
+
+
+
+
+
+
+// if else statement
+if (inputNumber % 2 ==0) {  
+console.log(" The input number is even!");
+} else {
+    console.log("The input number is odd!");
+ }
+
+ // if/else-if/else statement
+ if (inputNumber % 3==0) {
+    console.log("The input number is divisible by 3!");
+  } else {
+    
+  }
